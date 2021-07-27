@@ -11,3 +11,5 @@ https://mitchlyon.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Mitchell Lyon
+
+### ©️2019 Run Buddy, Inc
